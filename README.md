@@ -1,7 +1,7 @@
 # Intel_Unnathi_HTML_RAG_Chatbot
 A chatbot capable of answering questions related to AI, ML and DL. It utilizes a RAG model to retrieve information from a vector database. The vector database is created using relevant HTML documents sourced from Wikipedia. 
 
-##Files & Folders
+## Files & Folders
 **.env**- Contains environment variables for configuring the application.
 **requirements.txt**- Requirements file.
 **llm_model_downloader.py**- Downloads the `llama2-7b-chat-hf model` and converts it into OpenVINO IR models.
@@ -12,15 +12,17 @@ A chatbot capable of answering questions related to AI, ML and DL. It utilizes a
 **rag_client.py**- Chatbot client.
 **.streamlit**- Contains theme configurations for the Streamlit UI.
 
-##How to Run
+## How to Run
 >[NOTE]
 >These installation steps apply to Windows devices.
 >Run these commands on Windows Powershell.
 >Activate the virtual environment, `venv/Scripts/activate` each time you wish to run the client and server.
 
-###Setting up the server
+### Setting up the server
+```
 >[NOTE]
 >You only need to run the steps in this section once
+````
 ```
 git clone https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot.git
 cd Intel_Unnati_HTML_RAG_CHatbot
@@ -48,22 +50,22 @@ Downloads `llama2-7b-chat-hf`. You may change the model from the `.env` file.
 >[NOTE]
 >If you choose to use `llama2-7b-chat-hf`, you will require a token with credentials from the HuggingFace Hub for authentication.
 
-###Running the server
+### Running the server
 ```
 uvicorn rag-_server:app --host 0.0.0.0
 ```
 Ensure you are in the correct directory and have activated the virtual environment before running the server.
 
-###Running the client
+### Running the client
 ```
 streamlit run rag_client.py
 ```
 Run this in another Windows PowerShell window.
 Ensure you are in the correct directory and have activated the virtual environment (in the new window too) before running the client.
 
-##Sample Output
+## Sample Output
 ![image](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/cedd4b60-364b-46a7-91d5-924d9007f71d)
 
-##Demo Video
+## Demo Video
 https://drive.google.com/file/d/1HLiFXQnD8EjVPJXKbCodGmn7SZW9sH9d/view?usp=sharing ![image](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/80c168e5-e9c4-4e2f-9b8d-57be854a3b76)
 
