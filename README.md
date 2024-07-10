@@ -16,7 +16,7 @@ A chatbot capable of answering questions related to AI, ML and DL. It utilizes a
 >[!NOTE]
 >These installation steps apply to Windows devices.</br>
 >Run these commands on Windows Powershell.</br>
->Activate the virtual environment, `venv/Scripts/activate` each time you wish to run the client and server.</br>
+>Activate the virtual environment, `venv/Scripts/activate`, each time you wish to run the client and server.</br>
 
 ### Setting up the server
 >[!NOTE]
@@ -36,7 +36,7 @@ python -m spacy download en_core_web_sm
 ```
 Install the prerequisites.
 
-You may add/remove files from the 'html_wikipedia' based on your requirements, but ensure that the new files added are or HTML format.
+You may add/remove files from the 'html_wikipedia' folder based on your requirements, but ensure that the new files added are or HTML format.
 ```
 python html_vectordb.py
 ```
