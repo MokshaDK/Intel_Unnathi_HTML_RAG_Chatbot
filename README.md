@@ -20,7 +20,7 @@ A chatbot capable of answering questions related to AI, ML and DL. It utilizes a
 
 ### Setting up the server
 >[!NOTE]
->You only need to run the steps in this section once
+>You only need to run the steps in this section once.
 ```
 git clone https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot.git
 cd Intel_Unnati_HTML_RAG_CHatbot
