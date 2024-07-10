@@ -1,6 +1,8 @@
 # Intel_Unnati_HTML_RAG_Chatbot
-A chatbot capable of answering questions related to AI, ML and DL. It utilizes a RAG model to retrieve information from a vector database. The vector database is created using relevant HTML documents sourced from Wikipedia. 
+A chatbot capable of answering questions related to AI, ML and DL. It utilizes a RAG model to retrieve information from a vector database. The vector database is created using relevant HTML documents sourced from Wikipedia. It is further optimized using Intel OpenVINO.
 
+## Problem Statement
+Running GenAI on Intel AI Laptops and Simple LLM Inference on CPU and fine-tuning of LLM Models using Intel® OpenVINO.
 ## Files & Folders
 `.env`- Contains environment variables for configuring the application.</br>
 `requirements.txt`- Requirements file.</br>
