@@ -24,8 +24,8 @@ Running GenAI on Intel AI Laptops and Simple LLM Inference on CPU and fine-tunin
 >[!NOTE]
 >You only need to run the steps in this section once.
 ```
-git clone https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot.git
-cd Intel_Unnati_HTML_RAG_CHatbot
+git clone https://github.com/MokshaDK/Intel_Unnati_HTML_RAG_Chatbot.git
+cd Intel_Unnati_HTML_RAG_Chatbot
 ```
 Clone this repository and go to the directory on your device.
 ```
