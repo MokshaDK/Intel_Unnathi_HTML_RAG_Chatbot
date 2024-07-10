@@ -1,4 +1,4 @@
-# Intel_Unnathi_HTML_RAG_Chatbot
+# Intel_Unnati_HTML_RAG_Chatbot
 A chatbot capable of answering questions related to AI, ML and DL. It utilizes a RAG model to retrieve information from a vector database. The vector database is created using relevant HTML documents sourced from Wikipedia. 
 
 ## Files & Folders
