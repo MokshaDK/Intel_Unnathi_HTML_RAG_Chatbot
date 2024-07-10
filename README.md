@@ -67,5 +67,6 @@ Ensure you are in the correct directory and have activated the virtual environme
 ![image](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/cedd4b60-364b-46a7-91d5-924d9007f71d)
 
 ## Demo Video
-https://drive.google.com/file/d/1HLiFXQnD8EjVPJXKbCodGmn7SZW9sH9d/view?usp=sharing ![image](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/80c168e5-e9c4-4e2f-9b8d-57be854a3b76)
+[: https://drive.google.com/file/d/1HLiFXQnD8EjVPJXKbCodGmn7SZW9sH9d/view?usp=sharing ![image]](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/3fe5adf3-4cf8-4d40-9e88-7b36d3614163)
+
 
