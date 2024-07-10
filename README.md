@@ -52,7 +52,7 @@ Downloads `llama2-7b-chat-hf`. You may change the model from the `.env` file.
 
 ### Running the server
 ```
-uvicorn rag-_server:app --host 0.0.0.0
+uvicorn rag_server:app --host 0.0.0.0
 ```
 Ensure you are in the correct directory and have activated the virtual environment before running the server.
 
