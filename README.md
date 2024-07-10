@@ -40,6 +40,7 @@ Install the prerequisites.
 
 You may add/remove files from the 'html_wikipedia' folder based on your requirements, but ensure that the new files added are or HTML format.
 ```
+pip install -U langchain-community
 python html_vectordb.py
 ```
 Stores the documents objects in `doc_obj.pickle` and generates a vector database `.vectorstore_300_0` with chunk size 300 and overlap 0.
