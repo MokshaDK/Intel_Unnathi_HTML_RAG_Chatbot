@@ -2,7 +2,7 @@
 A chatbot capable of answering questions related to AI, ML and DL. It utilizes a RAG model to retrieve information from a vector database. The vector database is created using relevant HTML documents sourced from Wikipedia. 
 
 ## Files & Folders
-**.env**- Contains environment variables for configuring the application.</br>
+`**.env**`- Contains environment variables for configuring the application.</br>
 **requirements.txt**- Requirements file.</br>
 **llm_model_downloader.py**- Downloads the `llama2-7b-chat-hf model` and converts it into OpenVINO IR models.</br>
 **html_wikipedia**- Folder containing `Wikipedia` pages related to AI, ML and DL in `HTML` format.</br>
@@ -19,10 +19,8 @@ A chatbot capable of answering questions related to AI, ML and DL. It utilizes a
 >Activate the virtual environment, `venv/Scripts/activate` each time you wish to run the client and server.
 
 ### Setting up the server
-```
->[NOTE]
+>[!NOTE]
 >You only need to run the steps in this section once
-````
 ```
 git clone https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot.git
 cd Intel_Unnati_HTML_RAG_CHatbot
