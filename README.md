@@ -2,15 +2,15 @@
 A chatbot capable of answering questions related to AI, ML and DL. It utilizes a RAG model to retrieve information from a vector database. The vector database is created using relevant HTML documents sourced from Wikipedia. 
 
 ## Files & Folders
-**.env**- Contains environment variables for configuring the application.
-**requirements.txt**- Requirements file.
-**llm_model_downloader.py**- Downloads the `llama2-7b-chat-hf model` and converts it into OpenVINO IR models.
-**html_wikipedia**- Folder containing `Wikipedia` pages related to AI, ML and DL in `HTML` format.
+**.env**- Contains environment variables for configuring the application.</br>
+**requirements.txt**- Requirements file.</br>
+**llm_model_downloader.py**- Downloads the `llama2-7b-chat-hf model` and converts it into OpenVINO IR models.</br>
+**html_wikipedia**- Folder containing `Wikipedia` pages related to AI, ML and DL in `HTML` format.</br>
 **html_vectordb.py**- Converts the HTML files in `html_wikipedia` to into a vector database.
-**huggingface_login.py**- Used to log in to the HuggingFace hub.
-**rag_server.py**- Chatbot server.
-**rag_client.py**- Chatbot client.
-**.streamlit**- Contains theme configurations for the Streamlit UI.
+**huggingface_login.py**- Used to log in to the HuggingFace hub.</br>
+**rag_server.py**- Chatbot server.</br>
+**rag_client.py**- Chatbot client.</br>
+**.streamlit**- Contains theme configurations for the Streamlit UI.</br>
 
 ## How to Run
 >[!NOTE]
