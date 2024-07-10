@@ -61,10 +61,10 @@ streamlit run rag_client.py
 Run this in another Windows PowerShell window.
 Ensure you are in the correct directory and have activated the virtual environment (in the new window too) before running the client.
 
-## Sample Output
-![image](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/cedd4b60-364b-46a7-91d5-924d9007f71d)
-
 ## Demo Video
 [Demo Video Link](https://drive.google.com/file/d/1HLiFXQnD8EjVPJXKbCodGmn7SZW9sH9d/view?usp=sharing)
+
+## Sample Output
+![image](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/cedd4b60-364b-46a7-91d5-924d9007f71d)
 
 
