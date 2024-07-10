@@ -13,7 +13,7 @@ A chatbot capable of answering questions related to AI, ML and DL. It utilizes a
 **.streamlit**- Contains theme configurations for the Streamlit UI.
 
 ## How to Run
->[NOTE]
+>[!NOTE]
 >These installation steps apply to Windows devices.
 >Run these commands on Windows Powershell.
 >Activate the virtual environment, `venv/Scripts/activate` each time you wish to run the client and server.
@@ -47,7 +47,7 @@ Stores the documents objects in `doc_obj.pickle` and generates a vector database
 python llm_model_downloader.py
 ```
 Downloads `llama2-7b-chat-hf`. You may change the model from the `.env` file.
->[NOTE]
+>[!NOTE]
 >If you choose to use `llama2-7b-chat-hf`, you will require a token with credentials from the HuggingFace Hub for authentication.
 
 ### Running the server
@@ -67,6 +67,6 @@ Ensure you are in the correct directory and have activated the virtual environme
 ![image](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/cedd4b60-364b-46a7-91d5-924d9007f71d)
 
 ## Demo Video
-[: https://drive.google.com/file/d/1HLiFXQnD8EjVPJXKbCodGmn7SZW9sH9d/view?usp=sharing ![image]](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/3fe5adf3-4cf8-4d40-9e88-7b36d3614163)
+[https://drive.google.com/file/d/1HLiFXQnD8EjVPJXKbCodGmn7SZW9sH9d/view?usp=sharing ![image]](https://github.com/MokshaDK/Intel_Unnathi_HTML_RAG_Chatbot/assets/141493495/3fe5adf3-4cf8-4d40-9e88-7b36d3614163)
 
 
