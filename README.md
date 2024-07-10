@@ -4,14 +4,14 @@ A chatbot capable of answering questions related to AI, ML and DL. It utilizes a
 ## Problem Statement
 Running GenAI on Intel AI Laptops and Simple LLM Inference on CPU and fine-tuning of LLM Models using Intel® OpenVINO.
 ## Files & Folders
-`.env`- Contains environment variables for configuring the application.</br>
-`requirements.txt`- Requirements file.</br>
-`llm_model_downloader.py`- Downloads the `llama2-7b-chat-hf model` and converts it into OpenVINO IR models.</br>
-`html_wikipedia`- Folder containing `Wikipedia` pages related to AI, ML and DL in `HTML` format.</br>
-`html_vectordb.py`- Converts the HTML files in `html_wikipedia` to into a vector database.
-`huggingface_login.py`- Used to log in to the HuggingFace hub.</br>
-`rag_server.py`- Chatbot server.</br>
-`rag_client.py`- Chatbot client.</br>
+`.env`- Contains environment variables for configuring the application.</br></br>
+`requirements.txt`- Requirements file.</br></br>
+`llm_model_downloader.py`- Downloads the `llama2-7b-chat-hf model` and converts it into OpenVINO IR models.</br></br>
+`html_wikipedia`- Folder containing `Wikipedia` pages related to AI, ML and DL in `HTML` format.</br></br>
+`html_vectordb.py`- Converts the HTML files in `html_wikipedia` to into a vector database.</br></br>
+`huggingface_login.py`- Used to log in to the HuggingFace hub.</br></br>
+`rag_server.py`- Chatbot server.</br></br>
+`rag_client.py`- Chatbot client.</br></br>
 `.streamlit`- Contains theme configurations for the Streamlit UI.</br>
 
 ## How to Run
